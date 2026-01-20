@@ -17,5 +17,8 @@ permissions:
   # Update issues with PR links
   issues: write
 
+  # Trigger and manage GitHub Actions workflows
+  workflows: write
+
 repositories:
   - mattmoor-bespin-playground
