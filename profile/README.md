@@ -38,7 +38,7 @@ with zero known CVEs.
 
 * [terraform-infra-reconciler](https://github.com/driftlessaf/terraform-infra-reconciler)
   provides Terraform modules for the reconciler infrastructure
-* [go-driftless](https://github.com/driftlessaf/go-driftless) provides Go
+* [go-driftlessaf](https://github.com/driftlessaf/go-driftlessaf) provides Go
   implementations for LLM execution and evaluation in the framework and
   libraries to facilitate reconciliation across GitHub repositories, OCI
   containers, and APK packages.
