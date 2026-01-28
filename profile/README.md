@@ -36,7 +36,7 @@ with zero known CVEs.
 
 ## Projects
 
-* [terraform-infra-reconciler](https://github.com/driftlessaf/terraform-infra-reconciler)
+* [terraform-infra-reconcilers](https://github.com/driftlessaf/terraform-infra-reconcilers)
   provides Terraform modules for the reconciler infrastructure
 * [go-driftlessaf](https://github.com/driftlessaf/go-driftlessaf) provides Go
   implementations for LLM execution and evaluation in the framework and
